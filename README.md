@@ -1,3 +1,10 @@
+This is Portfolio application.
+
+This application is developed by React Js. React is a free and open-source front-end JavaScript library for building user interfaces or UI components. In this application you can share your professional information. You can update your information and also can delete your information.
+
+you can see the live project here :   https://nirjon97.github.io/My_portfolio
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
