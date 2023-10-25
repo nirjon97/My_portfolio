@@ -20,7 +20,7 @@ const Experience = () => {
                 
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">I have no professional experience from any software company.</Card.Title>
+                  <Card.Title className="text-center">I have six month experience from Genuine Technology and Research Limited (gtr) .</Card.Title>
                 </div>
                 {/*  
                 <div>
